@@ -15,7 +15,7 @@ body {
 }
 
 .center {
-	margin-left: 5%;
+	margin-left: 20%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -44,4 +44,14 @@ body {
 
 .emphasis {
 	font-style: italic;
+}
+
+.lesson {
+	text-align: center;
+	font-size: 12px;
+
+}
+
+.abtheading {
+	text-align: center;
 }
